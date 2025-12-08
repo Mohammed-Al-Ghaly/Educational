@@ -1,0 +1,16 @@
+Projcet Structure 
+
+App
+ -Header 
+ -Main 
+    -Home 
+    -Three Card (3)
+ -Courses 
+        -Section Header
+        -Three Courses (3)
+ -Reviews
+        -Section Header
+        -Three Reviews (3)
+ -Jion Us 
+ 
+ -Footer
