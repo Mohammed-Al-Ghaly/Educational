@@ -1,4 +1,4 @@
-educational-page-m.netlify.app
+
 
 
 # React + Vite
