@@ -1,4 +1,5 @@
-liev demo (educational-page-m.netlify.app)
+educational-page-m.netlify.app
+
 
 # React + Vite
 
